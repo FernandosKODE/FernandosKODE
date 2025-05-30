@@ -1,4 +1,4 @@
-# 👾 Hey, I'm Fer – breaking systems to make them better
+# 👾 Hey, I'm Fernando – breaking systems to make them better
 
 > 🇨🇱 From Chile | 🛡️ Future cyber defender | 🌐 Building my path in offensive security
 
